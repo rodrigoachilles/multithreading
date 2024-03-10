@@ -1,2 +1,2 @@
-# multithreading-go
+# multithreading
 Multithreading em Go
